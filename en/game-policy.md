@@ -1,12 +1,12 @@
 # Archer Raising — Game Operations Policy
 
-Version v0.2 (draft). The Korean text is the official version; this English translation is provided for reference.
+Version v0.2, effective 2026-10-21. The Korean text is the official version; this English translation is provided for reference.
 
-Effective date: [YYYY-MM-DD]
+Effective date: 2026-10-21
 Operated by: [operator name]
 Policy page: https://liilillililli.github.io/archer-ops-policy/
-Official community: [Discord address]
-Contact: MapleStory Worlds "Contact the Creator" / [additional contact channel]
+Official community: https://discord.com/invite/ss6z9EzfhS
+Contact: MapleStory Worlds "Contact the Creator" / inquiry form https://docs.google.com/forms/d/e/1FAIpQLSdhUETYAEqqrLZmQOO9EsZZQYCswByosKT3NPVTmoVw44EuVw/viewform
 
 ## 1. Play standards we share
 

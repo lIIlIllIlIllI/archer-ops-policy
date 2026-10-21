@@ -1,12 +1,12 @@
 # 궁수 키우기 게임 운영정책
 
-버전 v0.2 (초안)
+버전 v0.2 · 시행 2026년 10월 21일
 
-시행일: [YYYY년 MM월 DD일]
+시행일: 2026년 10월 21일
 운영: [운영 주체명]
 정책 안내: https://liilillililli.github.io/archer-ops-policy/
-공식 커뮤니티: [디스코드 주소]
-문의: 메이플스토리 월드 ‘크리에이터에게 문의하기’ / [추가 문의 창구]
+공식 커뮤니티: https://discord.com/invite/ss6z9EzfhS
+문의: 메이플스토리 월드 ‘크리에이터에게 문의하기’ / 문의 양식 https://docs.google.com/forms/d/e/1FAIpQLSdhUETYAEqqrLZmQOO9EsZZQYCswByosKT3NPVTmoVw44EuVw/viewform
 
 ## 1. 함께 지키는 플레이 기준
 

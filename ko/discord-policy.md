@@ -1,10 +1,10 @@
 # 궁수 키우기 공식 디스코드 운영정책
 
-버전 v0.2 (초안)
+버전 v0.2 · 시행 2026년 10월 21일
 
-시행일: [YYYY년 MM월 DD일]
+시행일: 2026년 10월 21일
 운영: [운영 주체명]
-신고·문의: [비공개 문의 방법]
+신고·문의: 문의 양식 https://docs.google.com/forms/d/e/1FAIpQLSdhUETYAEqqrLZmQOO9EsZZQYCswByosKT3NPVTmoVw44EuVw/viewform 또는 운영진에게 다이렉트 메시지
 서버 접근이 어려운 경우: 메이플스토리 월드 ‘크리에이터에게 문의하기’
 
 ## 1. 함께 이야기하는 공간

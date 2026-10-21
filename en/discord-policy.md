@@ -1,10 +1,10 @@
 # Archer Raising — Official Discord Operations Policy
 
-Version v0.2 (draft). The Korean text is the official version; this English translation is provided for reference. The game itself is covered by the [Game Operations Policy](game-policy.md).
+Version v0.2, effective 2026-10-21. The Korean text is the official version; this English translation is provided for reference. The game itself is covered by the [Game Operations Policy](game-policy.md).
 
-Effective date: [YYYY-MM-DD]
+Effective date: 2026-10-21
 Operated by: [operator name]
-Reports and inquiries: [private contact method]
+Reports and inquiries: inquiry form https://docs.google.com/forms/d/e/1FAIpQLSdhUETYAEqqrLZmQOO9EsZZQYCswByosKT3NPVTmoVw44EuVw/viewform or a direct message to a moderator
 If you cannot access the server: MapleStory Worlds "Contact the Creator"
 
 ## 1. A place to talk together
