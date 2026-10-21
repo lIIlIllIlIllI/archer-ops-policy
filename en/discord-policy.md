@@ -1,6 +1,6 @@
 # Archer Raising — Official Discord Operations Policy
 
-Version v0.2, effective 2026-10-21. The Korean text is the official version; this English translation is provided for reference. The game itself is covered by the [Game Operations Policy](game-policy.md).
+Version v0.2.1, effective 2026-10-21. The Korean text is the official version; this English translation is provided for reference. The game itself is covered by the [Game Operations Policy](game-policy.md).
 
 Effective date: 2026-10-21
 Operated by: WINA GAMES

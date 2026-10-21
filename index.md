@@ -1,6 +1,6 @@
 # 궁수 키우기 운영정책 / Archer Raising Operations Policies
 
-현재 버전 v0.2 · 시행일 2026년 10월 21일 / Current version v0.2, effective 2026-10-21
+현재 버전 v0.2.1 · 시행일 2026년 10월 21일 / Current version v0.2.1, effective 2026-10-21
 
 ## 한국어 (정본)
 

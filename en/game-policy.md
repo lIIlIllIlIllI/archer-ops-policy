@@ -1,6 +1,6 @@
 # Archer Raising — Game Operations Policy
 
-Version v0.2, effective 2026-10-21. The Korean text is the official version; this English translation is provided for reference.
+Version v0.2.1, effective 2026-10-21. The Korean text is the official version; this English translation is provided for reference.
 
 Effective date: 2026-10-21
 Operated by: WINA GAMES
@@ -65,7 +65,7 @@ The minimum checking needed to prevent harm is distinguished from deliberate, re
 
 Registering or keeping stage, Mu Lung, raid, or other records made by illegitimate means is prohibited.
 
-If a record looks abnormal, it may be temporarily removed from the ranking while it is checked. Records confirmed as legitimate are restored; records confirmed as illegitimate are deleted or corrected.
+If a record looks abnormal, it may be temporarily removed from the ranking while it is checked. Records confirmed as legitimate are restored; records confirmed as illegitimate are deleted from the ranking.
 
 ### Trading accounts and game results
 
@@ -79,7 +79,7 @@ Legitimate refund requests, bug reports, criticism of operations, and appeals ar
 
 ## 5. The megaphone and protecting players
 
-The megaphone is a space many players see together. The following may be deleted or lead to a usage restriction:
+The megaphone is a space many players see together. Posting the following may lead to a megaphone usage restriction:
 
 - Abuse aimed at a specific person, repeated mockery, or harassment
 - Sexual harassment, hate or discrimination, threats, or content related to sexual exploitation
@@ -98,14 +98,14 @@ The operations team acts after reviewing game records, reports, and related circ
 ### Available actions
 
 - Guidance or a warning
-- Deleting the offending content and restricting megaphone use (for a set period or permanently)
-- Removing or correcting abnormal ranking records
+- Restricting megaphone use (for a set period or permanently)
+- Removing abnormal ranking records
 - Recovering or correcting confirmed illegitimate gains
 - Restricting use of Archer Raising for a set period or permanently
 
 The scope of recovering illegitimate gains is decided from verifiable records and what can actually be processed. Recovery stays within the currency and items the account holds, and unrelated legitimate progress is never reset wholesale.
 
-If you log in while restricted, the restriction and its scheduled end time are shown, and once that time passes you can play again without any further step. Megaphone restrictions lift automatically the same way.
+If you log in while restricted, the restriction, the reason, the scheduled end time, and how to ask or appeal are shown, and once that time passes you can play again without any further step. Megaphone restrictions lift automatically the same way.
 
 ### Standard sanctions
 
