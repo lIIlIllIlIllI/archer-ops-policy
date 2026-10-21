@@ -1,0 +1,7 @@
+title: 궁수 키우기 운영정책
+description: Archer Raising operations policies (game and Discord), Korean official text with English reference translation
+lang: ko
+theme: jekyll-theme-primer
+markdown: kramdown
+exclude:
+  - README.md
