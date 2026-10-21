@@ -3,7 +3,7 @@
 버전 v0.2 · 시행 2026년 10월 21일
 
 시행일: 2026년 10월 21일
-운영: [운영 주체명]
+운영: WINA GAMES
 정책 안내: https://liilillililli.github.io/archer-ops-policy/
 공식 커뮤니티: https://discord.com/invite/ss6z9EzfhS
 문의: 메이플스토리 월드 ‘크리에이터에게 문의하기’ / 문의 양식 https://docs.google.com/forms/d/e/1FAIpQLSdhUETYAEqqrLZmQOO9EsZZQYCswByosKT3NPVTmoVw44EuVw/viewform

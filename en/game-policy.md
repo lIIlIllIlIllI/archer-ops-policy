@@ -3,7 +3,7 @@
 Version v0.2, effective 2026-10-21. The Korean text is the official version; this English translation is provided for reference.
 
 Effective date: 2026-10-21
-Operated by: [operator name]
+Operated by: WINA GAMES
 Policy page: https://liilillililli.github.io/archer-ops-policy/
 Official community: https://discord.com/invite/ss6z9EzfhS
 Contact: MapleStory Worlds "Contact the Creator" / inquiry form https://docs.google.com/forms/d/e/1FAIpQLSdhUETYAEqqrLZmQOO9EsZZQYCswByosKT3NPVTmoVw44EuVw/viewform
