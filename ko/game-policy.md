@@ -4,7 +4,7 @@
 
 시행일: [YYYY년 MM월 DD일]
 운영: [운영 주체명]
-정책 안내: [공개 문서 주소]
+정책 안내: https://liilillililli.github.io/archer-ops-policy/
 공식 커뮤니티: [디스코드 주소]
 문의: 메이플스토리 월드 ‘크리에이터에게 문의하기’ / [추가 문의 창구]
 

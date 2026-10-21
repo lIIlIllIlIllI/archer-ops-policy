@@ -4,7 +4,7 @@ Version v0.2 (draft). The Korean text is the official version; this English tran
 
 Effective date: [YYYY-MM-DD]
 Operated by: [operator name]
-Policy page: [public document address]
+Policy page: https://liilillililli.github.io/archer-ops-policy/
 Official community: [Discord address]
 Contact: MapleStory Worlds "Contact the Creator" / [additional contact channel]
 
